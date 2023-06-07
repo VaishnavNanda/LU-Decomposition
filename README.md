@@ -53,13 +53,13 @@ print(res)
 
 ### (i) To find the L and U matrix:
 
-![lu1](https://github.com/A-Thiyagarajan/LU-Decomposition/assets/118707693/ef6747d5-0a5e-4bca-a679-e4131001647a)
+![l1](/l1.png)
 
 
 ### (ii) To find the LU Decomposition of a matrix:
 
 
-![lu2](https://github.com/A-Thiyagarajan/LU-Decomposition/assets/118707693/7080c634-410e-4824-80f8-8c7024203de4)
+![l2](/l2.png)
 
 
 ## Result:
